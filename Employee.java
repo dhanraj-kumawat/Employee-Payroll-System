@@ -32,6 +32,5 @@ abstract class Employee {
         return "Employee [name=" + name + ", id=" + id + ", salary=" + calculateSalary()+"]";
     }
     
-    
 
 }
